@@ -1,4 +1,4 @@
-# Akihabara-Simulation
+# Akihabara Simulation
 A basic demonstration of Unity knowledge. This project simulates entities in a popular street in Akihabara, Japan. 
 
 ![Simulation](/misc/screenshot.png)
