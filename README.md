@@ -13,5 +13,7 @@ Pedestrians are spawned out of view. They are agents confined to the sidewalk un
 Trains pass by every once in a while. They can be seen in camera position 1 and can be seen in more detail in camera position 3. Camera position 3 reveals that passengers are being loaded and off-loaded when the train pulls into the station.
 
 ## Knowledge Demonstrated
+* NavMesh Agents and Obstacles
+* Basic camera control
 
 ## Controls
