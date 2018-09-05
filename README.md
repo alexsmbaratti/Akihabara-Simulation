@@ -17,3 +17,8 @@ Trains pass by every once in a while. They can be seen in camera position 1 and 
 * Basic camera control
 
 ## Controls
+### Parameters
+* Speed Limit (max. speed for cars)
+* Pedestrian Spawn Rate (how often agents spawn)
+* Signal Interval (interval for traffic signals)
+* Time Scale (speed of everything in project)
