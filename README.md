@@ -22,3 +22,6 @@ Trains pass by every once in a while. They can be seen in camera position 1 and 
 * Pedestrian Spawn Rate (how often agents spawn)
 * Signal Interval (interval for traffic signals)
 * Time Scale (speed of everything in project)
+
+### Camera Positions
+Changes the position of the user's view. Position 3 gives a better view of the train and the passengers.
