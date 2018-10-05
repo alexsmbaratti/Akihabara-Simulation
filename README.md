@@ -1,4 +1,6 @@
 # Akihabara Simulation
+[![CodeFactor](https://www.codefactor.io/repository/github/alexsmbaratti/akihabara-simulation/badge)](https://www.codefactor.io/repository/github/alexsmbaratti/akihabara-simulation)
+
 A basic demonstration of Unity knowledge. This project simulates entities in a popular street in Akihabara, Japan. 
 
 ![Simulation](/misc/screenshot.png)
