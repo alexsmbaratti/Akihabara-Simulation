@@ -18,6 +18,9 @@ Trains pass by every once in a while. They can be seen in camera position 1 and 
 * NavMesh Agents and Obstacles
 * Basic camera control
 
+## Purpose
+By understanding how changing parameters, such as pedestrain density and speed limit, can affect traffic flow in a dense, metro area, the best way to get the most people to their destination can become clear. 
+
 ## Controls
 ### Parameters
 * Speed Limit (max. speed for cars)
